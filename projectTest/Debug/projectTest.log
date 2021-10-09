@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Owner\Desktop\UNI\Programming\project\project_uni\projectTest\test.cpp(25,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Desktop\UNI\Programming\project\project_uni\projectTest\test.cpp(92,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\UNI\Programming\project\project_uni\projectTest\test.cpp(91,9): warning C4101: 'ans': unreferenced local variable
+C:\Users\Owner\Desktop\UNI\Programming\project\project_uni\projectTest\test.cpp(127,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\UNI\Programming\project\project_uni\projectTest\test.cpp(126,9): warning C4101: 'ans': unreferenced local variable
+  projectTest.vcxproj -> C:\Users\Owner\Desktop\UNI\Programming\project\project_uni\Debug\projectTest.exe
